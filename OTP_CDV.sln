@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTP_CDV", "OTP_CDV\OTP_CDV.csproj", "{A71DBEDB-5F4E-4A21-A365-9939407AD2EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTP_CDV_TEST", "OTP_CDV_TEST\OTP_CDV_TEST.csproj", "{49AD2D3D-7D80-44CE-A35F-1CEFAA520462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A71DBEDB-5F4E-4A21-A365-9939407AD2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71DBEDB-5F4E-4A21-A365-9939407AD2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71DBEDB-5F4E-4A21-A365-9939407AD2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71DBEDB-5F4E-4A21-A365-9939407AD2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49AD2D3D-7D80-44CE-A35F-1CEFAA520462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AD2D3D-7D80-44CE-A35F-1CEFAA520462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AD2D3D-7D80-44CE-A35F-1CEFAA520462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AD2D3D-7D80-44CE-A35F-1CEFAA520462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98A8EB0B-1B95-4406-A63D-1E988C78EC95}
+	EndGlobalSection
+EndGlobal
